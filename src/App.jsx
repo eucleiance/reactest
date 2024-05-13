@@ -21,8 +21,7 @@ const App = () => {
 }
 
 
-
-
+export default App
 
 
 
@@ -89,4 +88,3 @@ const App = () => {
 //   )
 // }
 
-export default App
